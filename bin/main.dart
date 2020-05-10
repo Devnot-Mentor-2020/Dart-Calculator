@@ -1,4 +1,4 @@
-import '../lib/CalculatorApp.dart' as CalculatorApp;
+import 'Calculator.dart';
 void main(List<String> arguments) {
   
 }
