@@ -1,4 +1,4 @@
-import 'package:CalculatorApp/CalculatorApp.dart';
+import '../lib/CalculatorApp.dart';
 import 'package:test/test.dart';
 
 void main() {
